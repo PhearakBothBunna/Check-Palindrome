@@ -5,7 +5,7 @@ public class isPalinedrome {
     public static void main(String [] args) {
 
         Boolean check = true;
-        // Keep the program running if the user wants to
+        // Keep the program running so that the user can check another string
         while (check) {
             // Prompt user to input a string
             System.out.println("Enter a string to check if it's a palindrome or not: ");
